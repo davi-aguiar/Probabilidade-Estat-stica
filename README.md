@@ -19,3 +19,19 @@ Você pode instalar as dependências do projeto usando `pip`. Execute o seguinte
 ```bash
 pip install pandas plotly scipy
 ```
+
+## Como Rodar o Projeto
+
+### 1. Clone ou Baixe o Repositório
+
+Para clonar o repositório, use o seguinte comando no terminal:
+
+```bash
+git clone https://github.com/usuario/meu-repositorio.git
+```
+
+### 2. Execute o seguinte comando no terminal
+
+Navegue até o diretório script e execute o seguinte comando
+
+python analise_dados.py
